@@ -1,0 +1,12 @@
+{
+ "_comment": "Настройки обезличивания. language: код языка из папки lexicons/ (ru, en, de...). Свой язык: положите JSON со словарём в lexicons/ (формат см. lexicons/de.json) и укажите его имя.",
+ "language": "auto",
+ "lexicon_files": [],
+ "extra_vocab": [],
+ "stop_words": [],
+ "min_digits_prefixed": 3,
+ "min_digits_global": 6,
+ "process_blobs": true,
+ "images": "blank",
+ "icon_max_pixels": 65536
+}
